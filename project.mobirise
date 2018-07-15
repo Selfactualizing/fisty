@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fistybois",
-    "currentPage": "fistybois.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
     "versionPublish": "4.6.7"
   },
   "pages": {
-    "fistybois.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Fisty Bois",
