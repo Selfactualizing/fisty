@@ -29,6 +29,8 @@
       },
       "additionalSetColors": []
     },
+    "favicon": "@PROJECT_PATH@/assets/images/img-2494-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 1,
     "versionPublish": "4.6.7"
