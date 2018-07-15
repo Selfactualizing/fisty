@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fistybois",
-    "currentPage": "index.html",
+    "currentPage": "fistybois.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,11 +33,11 @@
     "versionPublish": "4.6.7"
   },
   "pages": {
-    "index.html": {
+    "fistybois.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Fisty Bois",
+        "meta_descr": "When you just say yes...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
